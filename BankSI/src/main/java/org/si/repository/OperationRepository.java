@@ -1,0 +1,8 @@
+package org.si.repository;
+
+import org.si.entities.Operation;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface OperationRepository extends JpaRepository<Operation,Long> {
+
+}
