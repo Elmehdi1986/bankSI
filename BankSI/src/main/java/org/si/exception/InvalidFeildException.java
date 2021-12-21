@@ -1,5 +1,6 @@
 package org.si.exception;
 // this class used to throw custom exception
+//add comment
 public class InvalidFeildException extends RuntimeException {
 
 	private String message;
