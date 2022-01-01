@@ -9,6 +9,7 @@ public class HibernateTest {
 		System.out.println("add text 3");
 		
 		System.out.println("add first comment in feature-c");
+		System.out.println("add comment related to master before feature-d");
 	}
 
 }
