@@ -7,6 +7,8 @@ public class HibernateTest {
 	    System.out.println("add text 1 ");
 	    System.out.println("add text 2");
 		System.out.println("add text 3");
+		
+		System.out.println("add first comment in feature-c");
 	}
 
 }
