@@ -15,6 +15,7 @@ public class HibernateTest {
 		System.out.println("add first comment in feature-d");
 		System.out.println("add message 2 feature-d");
 		System.out.println("add message 3 feature-d");
+		System.out.println("add message 4 feature-d");
 
 	}
 
