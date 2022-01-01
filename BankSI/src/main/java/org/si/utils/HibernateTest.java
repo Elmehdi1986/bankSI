@@ -13,7 +13,11 @@ public class HibernateTest {
 		System.out.println("add comment related to master before feature-d");
 		System.out.println("add comment 2 related to master before feature-d");
 		System.out.println("add first comment in feature-d");
+<<<<<<< HEAD
 
+=======
+		System.out.println("add message 2 feature-d");
+>>>>>>> 635549a (add message 2 feature-d)
 	}
 
 }
